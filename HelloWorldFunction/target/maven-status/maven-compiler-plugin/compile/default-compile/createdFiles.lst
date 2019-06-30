@@ -1,0 +1,10 @@
+helloworld/conf/ConfigurationHolder.class
+helloworld/dataprovider/repository/InvoiceRepository.class
+helloworld/conf/Configuration$DataSource.class
+helloworld/models/Invoice.class
+helloworld/dataprovider/repository/InvoiceRepositoryImpl.class
+helloworld/dataprovider/db/Database.class
+helloworld/conf/Configuration.class
+helloworld/GatewayResponse.class
+helloworld/models/Invoice$InvoiceBuilder.class
+helloworld/App.class

@@ -1,0 +1,7 @@
+datasource:
+  driverClassName: com.mysql.cj.jdbc.Driver
+  url: jdbc:mysql://aurora-prod-master.cwqlxth4rzvl.us-east-2.rds.amazonaws.com:3306/ecotrak?zeroDateTimeBehavior=convertToNull&useSSL=false&allowPublicKeyRetrieval=true
+  username: customer-app-user
+  password: vsZTjiTk^7Qoo
+
+
